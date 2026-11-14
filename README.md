@@ -5,11 +5,11 @@
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
 
-##about the project
+# about the project
 
 this is a simple student management system created to manage student information 
 
-##technologies used
+# technologies used
 
 -HTML
 
@@ -17,7 +17,7 @@ this is a simple student management system created to manage student information
 
 -JavaScript 
 
-##features
+# features
 
 -add student 
 
@@ -27,7 +27,7 @@ this is a simple student management system created to manage student information
 
 -delete student record 
 
-##installation
+# installation
 
 -download the project 
 
@@ -35,6 +35,6 @@ this is a simple student management system created to manage student information
 
 -open index.html in your browser 
 
-##author 
+# author 
 
  created by FUH STEVEN 
