@@ -1,12 +1,11 @@
-# steven-works-
-
+# steven-works
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![status](https://img.shields.io/badge/status-active-success)
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
-##about the project
 
+##about the project
 
 this is a simple student management system created to manage student information 
 
