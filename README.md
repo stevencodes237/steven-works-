@@ -12,22 +12,27 @@ this is a simple student management system created to manage student information
 ##technologies used
 
 -HTML
+
 -CSS
+
 -JavaScript 
 
 ##features
 
-
 -add student 
+
 -view student records 
+
 -edit student information 
+
 -delete student record 
 
 ##installation
 
-
 -download the project 
+
 -open the project folder 
+
 -open index.html in your browser 
 
 ##author 
