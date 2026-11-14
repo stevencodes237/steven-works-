@@ -1,15 +1,15 @@
-# steven-works
+# Steven-Works
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![status](https://img.shields.io/badge/status-active-success)
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
 
-# about the project
+# About The Project
 
 this is a simple student management system created to manage student information 
 
-# technologies used
+# Technologies Used
 
 -HTML
 
@@ -17,7 +17,7 @@ this is a simple student management system created to manage student information
 
 -JavaScript 
 
-# features
+# Features
 
 -add student 
 
@@ -27,7 +27,7 @@ this is a simple student management system created to manage student information
 
 -delete student record 
 
-# installation
+# Installation
 
 -download the project 
 
@@ -35,6 +35,6 @@ this is a simple student management system created to manage student information
 
 -open index.html in your browser 
 
-# author 
+# Author 
 
  created by FUH STEVEN 
